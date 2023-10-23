@@ -1,0 +1,34 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items:center
+}
+#field {
+    background-color: green;
+    position:relative;
+    z-index: -5;
+}
+/* .ball {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+.forward {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 100%;
+
+}
+
+
+.goalie {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 100%;
+
+} */
